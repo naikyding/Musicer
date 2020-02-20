@@ -99,7 +99,7 @@ function getStyleList(){
     $('.loading').toggle();
     let contents = '';
     let url = 'https://www.googleapis.com/youtube/v3/search'
-                    +'?key=AIzaSyAp9ExBr07uouYCQYL5rNW-5ex0-xJ3ieA' //apiKey
+                    +'?key=?????' //apiKey
                     +'&part=snippet'
                     +`&q=pop+hits+2019` //searchText
                     +`&type=video` //video  playlist channel
